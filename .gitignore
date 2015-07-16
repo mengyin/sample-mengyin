@@ -1,5 +1,7 @@
 # Mac OS X filesystem cache
 .DS_Store
+._.DS_Store
+._paper.pdf
 
 # TeX intermediate files
 *.log
@@ -11,6 +13,5 @@ secret_api_token.txt
 # Scratch subdirectory
 scratch_work/
 
-._.DS_Store
-._paper.pdf
+# Random Log
 random_log.out
